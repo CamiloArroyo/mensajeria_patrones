@@ -1,0 +1,64 @@
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.exe
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.deps.json
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.runtimeconfig.json
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.dll
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.pdb
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.csproj.AssemblyReference.cache
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.AssemblyInfoInputs.cache
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.AssemblyInfo.cs
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets\msbuild.MessagingAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MessagingAPI.props
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MessagingAPI.props
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MessagingAPI.props
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\scopedcss\bundle\MessagingAPI.styles.css
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\Messagin.56D65323.Up2Date
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.dll
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\refint\MessagingAPI.dll
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.pdb
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.genruntimeconfig.cache
+C:\Users\Miguel Mendoza\source\repos\MessagingAPI\MessagingAPI\obj\Debug\net8.0\ref\MessagingAPI.dll
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.exe
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.deps.json
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.runtimeconfig.json
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.dll
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\MessagingAPI.pdb
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.csproj.AssemblyReference.cache
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.AssemblyInfo.cs
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets\msbuild.MessagingAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MessagingAPI.props
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MessagingAPI.props
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MessagingAPI.props
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\scopedcss\bundle\MessagingAPI.styles.css
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\Messagin.56D65323.Up2Date
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.dll
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\refint\MessagingAPI.dll
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.pdb
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\MessagingAPI.genruntimeconfig.cache
+C:\Users\User\Documents\NET\MessagingAPI\MessagingAPI\obj\Debug\net8.0\ref\MessagingAPI.dll

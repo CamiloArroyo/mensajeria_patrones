@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\configuration\\messagingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\configuration\\messagingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\services\\messagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\services\\messagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\services\\smsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\services\\smsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\services\\pushnotificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\services\\pushnotificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\models\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\models\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\services\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\services\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|c:\\users\\miguel mendoza\\source\\repos\\messagingapi\\messagingapi\\services\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB77045A-22FC-409A-A7CD-2DCBE7855560}|MessagingAPI\\MessagingAPI.csproj|solutionrelative:messagingapi\\services\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Program.cs",
+              "RelativeToolTip": "MessagingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:01:04.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PushNotificationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\PushNotificationMessage.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Services\\PushNotificationMessage.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\PushNotificationMessage.cs",
+              "RelativeToolTip": "MessagingAPI\\Services\\PushNotificationMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:58:15.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\SmsMessage.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Services\\SmsMessage.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\SmsMessage.cs",
+              "RelativeToolTip": "MessagingAPI\\Services\\SmsMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:57:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\MessageFactory.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Services\\MessageFactory.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\MessageFactory.cs",
+              "RelativeToolTip": "MessagingAPI\\Services\\MessageFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:51:18.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Services\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\EmailMessage.cs",
+              "RelativeToolTip": "MessagingAPI\\Services\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:49:38.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "MessagingAPI\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAoAAAAAMzMzMzMrwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:34:24.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Models\\MessageRequest.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Models\\MessageRequest.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Models\\MessageRequest.cs",
+              "RelativeToolTip": "MessagingAPI\\Models\\MessageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:44:10.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessagingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Configuration\\MessagingConfig.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Configuration\\MessagingConfig.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Configuration\\MessagingConfig.cs",
+              "RelativeToolTip": "MessagingAPI\\Configuration\\MessagingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:47:04.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\IMessage.cs",
+              "RelativeDocumentMoniker": "MessagingAPI\\Services\\IMessage.cs",
+              "ToolTip": "C:\\Users\\Miguel Mendoza\\source\\repos\\MessagingAPI\\MessagingAPI\\Services\\IMessage.cs",
+              "RelativeToolTip": "MessagingAPI\\Services\\IMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:48:50.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
